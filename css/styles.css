@@ -318,6 +318,9 @@ footer {
   padding: 75px 15px;
   border-bottom: 1px solid #dcd9d9;
 }
+.profile-img{
+  border: 2px solid #fff;
+}
 #about h2 {
   color: #374054;
 }
